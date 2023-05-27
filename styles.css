@@ -1,0 +1,49 @@
+body {
+    background-color: #ffefd5;
+}
+
+header {
+    background-color: #ff7f50;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #228b22;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: #00008b;
+    text-shadow: 2px 2px #ff4500;
+}
+
+h3 {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    color: #000000;
+}
+
+.rounded {
+    border: 2px solid #ff4500;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #f0e68c;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
