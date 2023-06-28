@@ -12,19 +12,19 @@ nav a {
     margin: 0 15px;
     color: white;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 40px;
 }
 
 h1 {
     font-family: Verdana, sans-serif;
-    font-size: 20px;
+    font-size: 40px;
     font-weight: bold;
     color: #228b22;
 }
 
 h2 {
     font-family: Arial, sans-serif;
-    font-size: 15px;
+    font-size: 30px;
     font-weight: bold;
     color: #00008b;
     text-shadow: 1px 1px #ff4500;
